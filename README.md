@@ -1,4 +1,6 @@
 ## AI Spell Correction App
+<img src="https://i.ibb.co/QNNTvb5/screely-1710759136187.png">
+
 This Streamlit app utilizes the GenerativeAI library and the Gemini model to identify and correct spelling errors within your text.
 Features
 1. Identifies misspelled words and suggests corrections.
