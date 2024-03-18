@@ -1,0 +1,4 @@
+google-generativeai
+grpcio
+grpcio-tools
+streamlit
