@@ -17,7 +17,7 @@ Features
 Clone or download this repository.
 1. Install the required libraries using requirements.txt `streamlit` and `google-generativeai`.
 2. Obtain a Google Generative AI API key and replace `YOUR_API_KEY` in the code with your key.
-3. Run the app using `streamlit run app.py`.
+3. Run the app using `streamlit run streamlit_app.py`.
 4. Enter your text in the text area and click "Check Spelling".
 
 ## Disclaimer
